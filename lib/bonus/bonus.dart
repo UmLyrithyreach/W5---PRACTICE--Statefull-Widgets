@@ -119,7 +119,7 @@ class _ScoreCard extends State<ScoreCard> {
                 height: 30,
                 width: 300,
                 decoration: BoxDecoration(
-                  color: Colors.grey.shade300,
+                  color: Colors.white,
                   borderRadius: BorderRadius.circular(10),
                 ),
               ),
